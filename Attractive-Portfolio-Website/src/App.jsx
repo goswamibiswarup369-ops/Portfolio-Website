@@ -72,7 +72,15 @@ const projects = [
 ];
 
 const internships = [
-  ["Code Alpha", "Machine Learning", "2 months"], ["Cognifyz", "C / C++", "1.5 months"], ["Codec Technologies", "Artificial Intelligence", "2 months"], ["Codtech", "C / C++ programming", "1 month"], ["Eduskill", "Fortinet Cybersecurity", "1 month"], ["The Developer Arena", "Web development", "2 months"], ["Kodbud", "Web Development (HTML, CSS, JS)", "4 weeks"], ["Main Crafts Technology", "Artificial Intelligence & Machine Learning", "Internship"],
+  ["Code Alpha", "Machine Learning", "2 months"],
+  ["Cognifyz", "C / C++", "1.5 months"],
+  ["Codec Technologies", "Artificial Intelligence", "2 months"],
+  ["Codtech", "C / C++ programming", "1 month"],
+  ["Eduskill", "Fortinet Cybersecurity", "1 month"],
+  ["The Developer Arena", "Web development", "2 months"],
+  ["Kodbud", "Web Development (HTML, CSS, JS)", "4 weeks"],
+  ["Main Crafts Technology", "Artificial Intelligence & Machine Learning", "Internship"],
+  ["FlyRank AI", "AI Backend Engineer", "Ongoing"],
 ];
 
 const certifications = [
