@@ -2,7 +2,7 @@
 
 ### Personal developer portfolio — built by [Biswarup Goswami](https://github.com/goswamibiswarup369-ops)
 
-Live source: portfolio-website-gilt-eight-tot65thsd2.vercel.a
+Live source: https://biswarup-goswami-portfolio.vercel.app/
 
 ---
 
